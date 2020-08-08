@@ -1,6 +1,6 @@
 # Phaser Webpack Init Repo
 
-Generic Simple Phaser Webpack Repo Configuration
+Tutorial : Create a Turn-Based RPG in Phaser 3 from [GameDev Academy](https://gamedevacademy.org/how-to-create-a-turn-based-rpg-game-in-phaser-3-part-1/)
 
 # Project Details
  
