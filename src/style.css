@@ -57,3 +57,15 @@ body {
 }
 
 /* ================ section ================ */
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+#content {
+  display: block;
+  width: 100%;
+  text-align: center;
+}
