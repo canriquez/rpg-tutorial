@@ -67,4 +67,9 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
+- All assets used in this tutorial are CC0 licensed. 
+The tiles are created by Kenney Vleugels and can be found at www.kenney.nl 
+
+- The player sprites can be found [here](https://opengameart.org/content/rpg-character-sprites).
+
 This project is [MIT](./LICENSE) licensed.
